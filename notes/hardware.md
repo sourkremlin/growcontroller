@@ -7,6 +7,7 @@ Grow Controller Hardware
  * Jumper Cables
  * Relay Power Supply
  * Touch Screen - https://www.adafruit.com/product/2718
+ * Keyboard - https://www.adafruit.com/product/4112
 
 Raspberry Pi
 ------------
@@ -31,6 +32,11 @@ The RPI supports a couple different options for driving a screen,
  * Composite video (NTSC and PAL) via an RCA plug (the yellow socket on your TV) or SCART socket.
  * HDMI 1.3a standard output.
  * Display Serial Interface (DSI) - via unpopulated 15-way flat flex connector.
+
+Keyboard
+--------
+
+The keyboard is wired because I don't want to mess with wireless keyboard drivers without keyboard capability. The keyboard includes a USB splitter so that it can be daisy chained with other peripherals.
 
 Relay Power Supply
 ------------------

@@ -9,3 +9,9 @@ A RPi controlled touch screen interface to configure run times for grow lights. 
 <br/>
 [Purchasing](https://github.com/sourkremlin/growcontroller/blob/master/notes/bom.md)
 
+Tests are executed with
+
+```bash
+python setup.py pytest
+```
+
