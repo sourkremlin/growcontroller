@@ -5,5 +5,5 @@ setup(
    version='0.1',
    author='lump',
    packages=['growcontroller'],
-   install_requires=['PyQt5'],
+   install_requires=['PyQt5', 'RPi.GPIO'],
 )
