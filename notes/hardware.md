@@ -47,4 +47,5 @@ The keyboard is wired because I don't want to mess with wireless keyboard driver
 Relay Power Supply
 ------------------
 
-Need something that will switch mains power from low voltage/amp GPIO pins on the RPi (at least 3 connectors, more and ability to expand are desirable). This is likely the most challenging part of this device.
+Need something that will switch mains power from low voltage/amp GPIO pins on the RPi (at least 3 connectors, more and ability to expand are desirable). This is likely the most challenging part of this device. Need to know power supply requirements on grow lights so that this can be sized correctly.
+
