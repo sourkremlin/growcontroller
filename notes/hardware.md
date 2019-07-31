@@ -7,6 +7,7 @@ Grow Controller Hardware
  * Jumper Cables
  * Relay Power Supply
  * Touch Screen - https://www.adafruit.com/product/2718
+ * MicroUSB Y splitter cable - https://www.digikey.com/product-detail/en/adafruit-industries-llc/3030/1528-2040-ND/6827173?
  * Keyboard - https://www.adafruit.com/product/4112
 
 Raspberry Pi
@@ -32,6 +33,11 @@ The RPI supports a couple different options for driving a screen,
  * Composite video (NTSC and PAL) via an RCA plug (the yellow socket on your TV) or SCART socket.
  * HDMI 1.3a standard output.
  * Display Serial Interface (DSI) - via unpopulated 15-way flat flex connector.
+
+MicroUSB Y Splitter Cable
+-------------------------
+
+Splits the microUSB power supply for the RPi into two microUSB connectors that will connect to both the RPi and the touch screen interface. This takes care of simultaneously powering them on.
 
 Keyboard
 --------
